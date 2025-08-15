@@ -1,0 +1,16 @@
+[
+  {
+    "id": "65933a77733408d2",
+    "username": "master0",
+    "password": "master0",
+    "expiresAt": "2026-12-12",
+    "allowOffline": true
+  },
+  {
+    "id": "ef51c13999bfb00d",
+    "username": "Master2",
+    "password": "pass2",
+    "expiresAt": "2026-12-12",
+    "allowOffline": true
+  }
+]
